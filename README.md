@@ -1,1 +1,1 @@
-# xampp localhost not yet to server
+# xampp localhost not yet to live server
